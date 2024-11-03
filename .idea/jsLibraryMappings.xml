@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{806f3d79dd, data, highcharts-more, indicators, jquery, jstat, trendline}" />
+  </component>
+</project>
